@@ -88,21 +88,6 @@ python visualize_pose_video.py --input your_video.mp4 --poses poses.json --outpu
 
 ---
 
-## 🖼️ Demo / Screenshots
-
-Here’s what the outputs look like (replace with your own images/videos later):
-
-- **Pose Extraction Example**  
-  ![Pose Example](https://via.placeholder.com/600x300.png?text=Pose+Landmarks+Example)
-
-- **Backlift Angle Graph**  
-  ![Backlift Graph](https://via.placeholder.com/600x300.png?text=Backlift+Graph+Example)
-
-- **Annotated Video Frame**  
-  ![Annotated Video](https://via.placeholder.com/600x300.png?text=Annotated+Video+Example)
-
----
-
 ## 📈 Applications
 
 - Coaching aid for **grassroots cricket training** 🏏  
